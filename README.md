@@ -40,6 +40,8 @@ Some **projects** developed during my first steps in programming at [Adalab Boot
 
 Check the [**repositories section**](https://github.com/saramartara?tab=repositories) to see my progress! Hope, you will enjoy it!
 
+Sara 💚
+
 [saramartinezaragon@gmail.com](mailto:saramartinezargon@gmail.com)
 
 ### <br />
