@@ -12,9 +12,9 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=saramartara&show_icons=true"/>](https://github.com/saramartara/)
 
-## This is Sara, junior front-end developer.
+### This is Sara, junior front-end developer.
 
-## Welcome to my GitHub page!
+### Welcome to my GitHub page!
 
 </br>
 
