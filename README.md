@@ -12,18 +12,23 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=saramartara&show_icons=true"/>](https://github.com/saramartara/)
 
-Welcome to my GitHub page. I'm Sara, jr. front-end
+## This is Sara, junior front-end developer.
 
-<br />
+## Welcome to my GitHub page!
 
-### Technologies and tools
+</br>
 
-- **Learning :** Full-stack Development | Open-Source
+### About
+
 - **Technologies :** HTML | CSS | JavaScript | React | NodeJS
+- **Tools :** GitHub | Agile | Scrum
+- **Learning :** Full-stack Development | Open-Source | Python
+- **Building :** my portfolio, webpages
 - **Hobbies :** to code, swim, read and travel. The nature, music and watercolors.
-- **Organization :** I am currently working on creating webpages and looking for an on-boarding jr program.
 
-### Some of my projects:
+Some **projects** developed during my first steps in programming at [Adalab Bootcamp, promo Lee](https://adalab.es/)
+
+<!-- <img alt="Rick icon" src="../images/rick"/>  -->
 
 [My favorite series](http://beta.adalab.es/modulo-2-evaluacion-final-saramartara/)
 
@@ -35,4 +40,14 @@ Welcome to my GitHub page. I'm Sara, jr. front-end
 
 ## <br />
 
-Check the [repositories section](https://github.com/saramartara?tab=repositories) to see my progress! Hope, you will enjoy it!
+Check the [**repositories section**](https://github.com/saramartara?tab=repositories) to see my progress! Hope, you will enjoy it!
+
+# <br />
+
+### Contact me!
+
+If you have any suggestion, idea,
+
+[Linkedin](https://www.linkedin.com/in/saramartara/)
+
+[saramartinezaragon@gmail.com](mailto:saramartinezargon@gmail.com)
