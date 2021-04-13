@@ -18,8 +18,6 @@
 
 </br>
 
-### About
-
 - **Technologies :** HTML | CSS | JavaScript | React | NodeJS
 - **Tools :** GitHub | Agile | Scrum
 - **Learning :** Full-stack Development | Open-Source | Python
