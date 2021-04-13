@@ -1,4 +1,4 @@
-### Hi there, I'm Sara, jr. front-end  👋
+### Hello world! 👋
 
 <a href="https://www.linkedin.com/in/saramartara/">
   <img align="left" alt="Sara's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -6,27 +6,33 @@
 <a href="https://github.com/saramartara">
   <img align="left" alt="Sara's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-<!--
-**saramartara/saramartara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="mailto:saramartinezargon@gmail.com">
-  <img align "left" alt="Sara's Email" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />
+  <img align "left" alt="Sara's Email" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saramartara)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saramartara/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saramartinezaragon@gmail.com)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=saramartara&show_icons=true"/>](https://github.com/saramartara/)
 
-Here are some ideas to get you started:
+Welcome to my GitHub page. I'm Sara, jr. front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-  [email](mailto:saramartinezaragon@gmail.com)
-  [linkedin](https://www.linkedin.com/in/saramartara/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Technologies and tools
+
+- **Learning :** Full-stack Development | Open-Source
+- **Technologies :** HTML | CSS | JavaScript | React | NodeJS
+- **Hobbies :** to code, swim, read and travel. The nature, music and watercolors.
+- **Organization :** I am currently working on creating webpages and looking for an on-boarding jr program.
+
+### Some of my projects:
+
+[My favorite series](http://beta.adalab.es/modulo-2-evaluacion-final-saramartara/)
+
+[Wubba Lubba Dub Dub!!](http://beta.adalab.es/modulo-3-evaluacion-final-saramartara/#/)
+
+[Pokemon list](http://beta.adalab.es/modulo-3-evaluacion-intermedia-saramartara/)
+
+[Guess a number](http://beta.adalab.es/modulo-2-evaluacion-intermedia-saramartara/)
+
+## <br />
+
+Check the [repositories section](https://github.com/saramartara?tab=repositories) to see my progress! Hope, you will enjoy it!
