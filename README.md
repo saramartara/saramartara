@@ -36,8 +36,6 @@ Some **projects** developed during my first steps in programming at [Adalab Boot
 
 [Guess a number](http://beta.adalab.es/modulo-2-evaluacion-intermedia-saramartara/)
 
-### <br />
-
 Check the [**repositories section**](https://github.com/saramartara?tab=repositories) to see my progress! Hope, you will enjoy it!
 
 Sara 💚
