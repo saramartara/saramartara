@@ -28,13 +28,16 @@ Some **projects** developed during my first steps in programming at [Adalab Boot
 
 <!-- <img alt="Rick icon" src="../images/rick"/>  -->
 
-[My favorite series](http://beta.adalab.es/modulo-2-evaluacion-final-saramartara/)
+[My favorite series](https://saramartara.github.io/My-favorite-series_module-2/)
 
-[Wubba Lubba Dub Dub!!](http://beta.adalab.es/modulo-3-evaluacion-final-saramartara/#/)
+[Wubba Lubba Dub Dub!!](https://saramartara.github.io/Rick-and-Morty_module-3/#/)
 
-[Pokemon list](http://beta.adalab.es/modulo-3-evaluacion-intermedia-saramartara/)
+[Pokemon list](https://saramartara.github.io/Pokemon-list_module-3/)
 
-[Guess a number](http://beta.adalab.es/modulo-2-evaluacion-intermedia-saramartara/)
+[Guess a number](https://saramartara.github.io/Guess-the-number_module-2/)
+
+Here you have the [promo video](https://www.youtube.com/watch?v=SfTgr9eAIKc) of the project [This is me!](https://saramartara.github.io/This-is-me_project-module-2-team-2/)
+Watch this demo video of the group project this is me
 
 ### </br>
 
